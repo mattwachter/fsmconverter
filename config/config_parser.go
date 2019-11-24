@@ -19,7 +19,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/felixangell/toml"
+	"github.com/BurntSushi/toml"
 	"github.com/imdario/mergo"
 	"go.uber.org/zap"
 )
